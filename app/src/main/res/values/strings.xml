@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Filmes Famosos</string>
+    <string name="action_filmes_populares">Populares</string>
+    <string name="action_filmes_mais_bem_avaliados">Mais Bem Avaliados</string>
+    <string name="action_filmes_favoritos">Favoritos</string>
+    <string name="error_message">Um erro ocorreu!</string>
+    <string name="detalhe_name">Filme Detalhe</string>
+    <string name="trailer">Trailers:</string>
+    <string name="trailer1">Trailer 1</string>
+    <string name="reviews">Reviews</string>
+    <string name="action_favorite">Favorito</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_populares"
+        android:title="@string/action_filmes_populares"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_bem_avaliados"
+        android:title="@string/action_filmes_mais_bem_avaliados"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_filmes_favoritos"
+        android:title="@string/action_filmes_favoritos"
+        app:showAsAction="never"/>
+
+</menu>
